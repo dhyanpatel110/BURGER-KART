@@ -1,4 +1,4 @@
-# Interface of BurgerKart
+# Interface of Burger Kart
 
 ![Interface of BurgerKart](BurgerKart.png)
 
