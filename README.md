@@ -1,6 +1,6 @@
 # Interface of Burger Kart
 
-![Interface of BurgerKart](Burgerkart.png)
+![Interface of Burger Kart](Burgerkart.png)
 
 # Getting Started with Create React App
 
