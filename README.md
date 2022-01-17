@@ -1,6 +1,6 @@
 # Interface of Burger Kart
 
-![Interface of Delta](Burgerkart.png)
+![Interface of BurgerKart](Burgerkart.png)
 
 # Getting Started with Create React App
 
